@@ -1,1 +1,3 @@
 # odin-recipes
+
+In this project, I put together a website of recipes. The recipes were found on AllRecipes.com and formatted in my personal HTML documents to create a website and pages that it links to. My main goals were to be able to properly use html syntax to complete my webpages and also become comfortable with using github and my linux terminal as I completed the project. I became more adept at staging, committing, and pushing my files through the terminal to github. Finally, I was able to be comfortable with using the terminal to execute various file management tasks including creating folders, moving files, and, as mentioned above, working with github.
