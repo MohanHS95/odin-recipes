@@ -1,6 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: honeydew;
+    background-color: darkgoldenrod;
+
 }
 
 h1 {
@@ -9,11 +10,33 @@ h1 {
     text-align: center;
 }
 
-div.container {
+.container {
     text-align: center;
+    display: block;
+    border: 3px dotted blue;
+    margin: 0 250px;
+    background-color: aliceblue;
+
 }
 
 .container .myUL {
     display: inline-block;
-    text-align: left;
+    text-align: center;
+    font-size: 24px;
+    padding: 25px;
+    background-color: aliceblue;
+}
+
+.one {
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.two {
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.three {
+    background-color: aliceblue;
 }
